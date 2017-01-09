@@ -1,3 +1,7 @@
+/**
+@author: Jithin Pradeep
+@mail : jithinpr2@gmail.com
+*/
 <?php
 error_reporting(E_ERROR);
 function strip_html_tags( $text )
