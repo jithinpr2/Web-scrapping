@@ -1,6 +1,6 @@
 /**
-@author: Jithin Pradeep
-@mail : jithinpr2@gmail.com
+* @author: Jithin Pradeep
+* @mail : jithinpr2@gmail.com
 */
 <?php
 error_reporting(E_ERROR);
